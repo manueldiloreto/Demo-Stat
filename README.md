@@ -1,3 +1,5 @@
+<h1>Demo-Stat</h1>
+
 Demo-Stat provides an alternative way to navigate Italian demographic statistics. The app draws data from the Italian National Institute of Statistics (ISTAT) and re-elaborates it into key indicators to monitor population shifts and aging. These indicators are available at the national, regional (NUTS-2), and municipal levels.
 
 Currently, the following indicators are available:
